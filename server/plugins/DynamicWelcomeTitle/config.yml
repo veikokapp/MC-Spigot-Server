@@ -1,0 +1,21 @@
+#Plugin DynamicWelcomeTitle by leomelki ! Very simple configuration.
+
+#Time between two chars of the title in ticks.
+timepercharmsg: 3
+
+#Time between two chars of the subtitle in ticks.
+timepercharsub: 3
+
+#Transition
+transition: 0
+
+#Title.
+message: '&2MC &5Server'
+
+#Subtitle.
+subtitle: '&3Tere Tulemast !'
+
+#If you want the message to be dynamic , type in true, otherwise , type in false.
+isdynamic:
+  message: true
+  subtitle: true
