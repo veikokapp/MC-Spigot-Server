@@ -9,6 +9,7 @@ How to Make Minecraft Bukkit/Spigot Server For 1.12+ - Make a Minecraft Server E
 
 * [x] 🗺 Dynmap plugin
 * [x] 👋 Welcome message plugin
+* [X] 🏠 Set Home plugin
 
 ## How to start the server
 
