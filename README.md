@@ -12,6 +12,6 @@ How to Make Minecraft Bukkit/Spigot Server For 1.12+ - Make a Minecraft Server E
 
 ## How to start the server
 
-Windows: `java -Xms4G -Xmx4G -XX:+UseG1GC -jar spigot.jar`
+Windows: `java -Xms1G -Xmx1G -XX:+UseG1GC -jar spigot.jar`
 
 Mac: `java -Xms4G -Xmx4G -XX:+UseG1GC -jar spigot.jar`
